@@ -3,7 +3,7 @@ wheeled-base
 
 Goal: design a robust, affordable, adaptable wheeled base for future projects.
 
-## Communicate Channels
+## Communication Channels
 
 * Google Group: https://groups.google.com/forum/#!forum/robomakery-wheeled-base
 * Trello Board: https://trello.com/b/tdWniHWv/wheeled-base-development
@@ -27,3 +27,9 @@ First-class ROS integration
 ### Parameterized
 
 Easily create base anywhere from 6-inch to 24-inch diameter
+
+## Desired Feature List
+
+* SLAM
+* Autonomous recharging
+* Voice controlled
